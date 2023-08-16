@@ -1,0 +1,53 @@
+.YOUTUBE{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    border-width: solid;
+    border-color: aliceblue;
+    width: 400px;
+    height: 450px;
+    padding: 10px 50px;
+     
+}
+
+.YOUTUBE h1{
+    font-family: sans-serif;
+    font-size: 40px;
+    color: gold;
+    margin-top: 0; 
+}
+
+ p{
+    font-family: Helvetica;
+    font-size: 20px;
+    color: pink;
+}
+.YOUTUBE input{
+    display: block;
+    width: 400px;
+    height: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: aqua;
+}
+::placeholder{
+   color:#ff7200;
+   font-family: 'Segoe UI' ;
+}
+
+.YOUTUBE button{
+    font-size: 30px;
+    font-family: 'Trebuchet MS';
+    margin-top: 20px;
+    background-color: lightseagreen;
+    border-radius: 20px;
+    border-width: 8px;
+    border-color: beige;
+    transition: 2s;
+}
+
+.YOUTUBE button:hover{
+    color: #ff7200;
+    
+}
